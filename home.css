@@ -138,18 +138,7 @@ bottom: 230px;
 
 z-index: 2;
 }
-.landingPage_images .landingPage_images__div2{
-    background-color: #FFEA32;
-    height: 300px;
-    width: 2800px;
-    border: 1px solid #FFEA32;
-    overflow: hidden;
-    position: relative;
-    right: 5px;
-    bottom: 230px;
-    
-    z-index: 2;
-    }
+
 
 .landingPage{
     display: flex;
