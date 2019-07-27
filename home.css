@@ -121,7 +121,7 @@ border-bottom: 2px solid rgba(28, 63, 219, .5);
     height: 330px;
     width: auto;
     z-index: 5;
-    left: 20px;
+    left: 10px;
     position: relative;
     top: 50px;
 }
@@ -138,6 +138,18 @@ bottom: 230px;
 
 z-index: 2;
 }
+.landingPage_images .landingPage_images__div2{
+    background-color: #FFEA32;
+    height: 300px;
+    width: 280px;
+    border: 1px solid #FFEA32;
+    overflow: hidden;
+    position: relative;
+    right: 5px;
+    bottom: 230px;
+    
+    z-index: 2;
+    }
 
 
 .landingPage{
@@ -869,6 +881,17 @@ a img{
     top:250px;
     z-index: 2;
     }
+    .landingPage_images .landingPage_images__div2{
+        background-color: #FFEA32;
+        height: 300px;
+        width: 280px;
+        border: 1px solid #FFEA32;
+        overflow: hidden;
+        position: absolute;
+        right: 8%;
+        top:250px;
+        z-index: 2;
+        }
 
     .landingPage_images .landingPage_images__img{
         position: absolute;
@@ -992,6 +1015,11 @@ a img{
         background-color: #1F3ECE;
         height: 270px;
         width: 298px;
+    }
+    .landingPage_images .landingPage_images__div2{
+        background-color: #FFEA32;
+        height: 250px;
+        width: 278px;
     }
 
     .landingPage_text{
