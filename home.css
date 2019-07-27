@@ -117,16 +117,16 @@ border-bottom: 2px solid rgba(28, 63, 219, .5);
     margin-left: 50px;
 }
 
-.landingPage_images .landingPage_images__img{
+.landingPage_images .landingPage-images-main{
     height: 330px;
     width: auto;
     z-index: 5;
-    left: 20px;
+    left: 10px;
     position: relative;
     top: 50px;
 }
 
-.landingPage_images .landingPage_images__div{
+.landingPage_images .landingPage-white-box{
 background-color: #fff;
 height: 320px;
 width: 300px;
@@ -138,6 +138,18 @@ bottom: 230px;
 
 z-index: 2;
 }
+.landingPage_images .landingPage-yellow-box{
+    background-color: #FFEA32;
+    height: 300px;
+    width: 280px;
+    border: 1px solid #FFEA32;
+    overflow: hidden;
+    position: relative;
+    right: 5px;
+    bottom: 230px;
+    
+    z-index: 2;
+    }
 
 .landingPage{
     display: flex;
